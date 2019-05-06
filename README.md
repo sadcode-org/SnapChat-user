@@ -1,2 +1,7 @@
 # SnapChat-user
-Check if a username is available or unavailable and get username suggestions
+
+## Features
+- Checks username availability
+- Gives you username suggestions if the username is unavailable
+
+This is script is for the development of a future SnapChat API. Check my other scripts which contribute this future API :)
